@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "McOsLpzeofX1EF0vT/pEU2ChlFAiPmcBBcY8eVp+98RguqTCA6lNauShSUi/O9TCK8Ak5ILX5EPhNkuyEWudXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\throdrig\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao1\\Questao1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.130.8.82/nugetserver/nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
